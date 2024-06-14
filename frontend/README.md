@@ -70,12 +70,3 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
 <<<<<<< HEAD
 
-<!--  -->
-"# E-commerce--Frontend" 
-"# E-commerce--Frontend" 
-=======
->>>>>>> 47aa5700dfc33479b72e0aee13aa7cca9433a5d3
-"# E-commerce-Frontend" 
-"# E-commerce-Frontend" 
-"# E-commerce-Frontend" 
-"# E-commerce-Frontend" 
